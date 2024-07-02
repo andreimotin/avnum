@@ -1,10 +1,11 @@
 <div align="center">
+  <br />
+  <a href="https://github.com/othneildrew/Best-README-Template">
+  <img src="images/logo.png" alt="Logo" width="494" height="206">
   </a>
   <h3 align="center">avnum</h3>
   <p align="center">
     A simple Python module to calculate the average of numbers.
-    <br />
-    Fully released, but still accepting contributors (see <a href="#contributing">Contributing</a>).
     <br />
     <br />
     <a href="https://pypi.org/project/avnum/">PyPi</a>
@@ -38,11 +39,9 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#examples">Examples</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -64,8 +63,8 @@ The module is super versatile, you can use it with predefined lists or in the fu
 <br/>
 <br/>
 Hop right to <a href="#getting-started">Getting Started</a> to begin your adventure with avnum.
-
-
+<br/>
+<br/>
 
 ### Built With
 
