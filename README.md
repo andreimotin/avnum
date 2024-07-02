@@ -82,9 +82,10 @@ avnum is based on Python, and your contributions :smile:
 
 Install the module
    ```sh
-   pip install avnum
+   pip install avnum --upgrade
    ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
