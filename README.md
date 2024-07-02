@@ -9,6 +9,8 @@
     <br />
     <a href="https://pypi.org/project/avnum/">PyPi</a>
     ·
+    <a href="https://discord.gg/9nUr8feRa3">Discord</a>
+    ·
     <a href="https://github.com/andreimotin/avnum/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/andreimotin/avnum/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
@@ -166,6 +168,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Twitter: [@andreimotin12](https://twitter.com/andreimotin12)
+<br/>
+<br/>
+Discord: [https://discord.gg/9nUr8feRa3](https://discord.gg/9nUr8feRa3)
 <br/>
 <br/>
 Email: motinandrei@icloud.com
