@@ -110,13 +110,6 @@ num_average = avnum.average(list)
 print(output)
 ```
 
-Example with a number list from input and a print output
-```python
-import avnum
-num_input = int(input())
-num_average = avnum.average(num_input)
-print(num_average)
-```
 
 Example with no predefined number list and no output
 ```python
